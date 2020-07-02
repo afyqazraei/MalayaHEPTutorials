@@ -20,7 +20,7 @@ Doing proper experimental particle physics requires vast computing resources tha
 
 ```Python
 ssh -XY yourusername@lxplus7.cern.ch
->Warning: Permanently added the ECDSA host key for IP address '188.184.97.224' to the list of known hosts.
+>Warning: Permanently added the ECDSA host key for IP address 'IP-ADDRESS NUMBER' to the list of known hosts.
 >Password:
 ```
 
