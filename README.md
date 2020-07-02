@@ -1,12 +1,12 @@
-# MalayaCMSTutorials
+# MalayaHEPTutorials
 
-This repository will help get you started on the stuff you will be doing throughout your studies and work with University of Malaya CMS Group. Though, if you are interested to just explore around to do some programming or learn how particle physics analyses work, then you are most welcomed. 
+This repository will help get you started on the stuff you will be doing throughout your studies and work with University of Malaya HEP Group. Though, if you are interested to just explore around to do some programming or learn how particle physics analyses work, then you are most welcomed. 
 
-Below, we list some tutorials scattered and available all over the Internet as a beginner reference for you. Some exercises will also be included along, primarily gearing towards work within the CMS group which mainly uses ROOT.
+Below, we list some tutorials scattered and available all over the Internet as a beginner reference for you. Some exercises will also be included along, primarily gearing towards work within the HEP group which mainly uses ROOT.
 
 ## UNIX
 
-You will be mainly using the UNIX operating system on the Bash shell to access the CMS Computing Grid, and this can be done in many ways. Seems like a lot of big, fancy words? Don't worry, you'll pick it up fast. First, you need to have Linux but you don't necessarily need to use dual booting. 
+You will be mainly using the UNIX operating system on the Bash shell to access the computing grids, and this can be done in many ways. Seems like a lot of big, fancy words? Don't worry, you'll pick it up fast. First, you need to have Linux but you don't necessarily need to use dual booting. 
 
 * If you're on Windows 10, you can use the built in Linux subsystem. Windows Subsystem for Linux 2 (WSL2) suffices our needs. Follow the the steps in this video: [How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux](https://www.youtube.com/watch?v=xzgwDbe7foQ)
 * If you want to use a virtual machine to run Linux, follow the steps here: [How to Use VirtualBox (Beginners Guide)](https://www.youtube.com/watch?v=sB_5fqiysi4)
@@ -36,6 +36,6 @@ Most of the time, you will be working with lots of other people on the same code
 
 ## Python
 
-One of the most widely used language now, Python is a common language among CMS collaborators besides C++.
+One of the most widely used language now, Python is a common language among physicists besides C++.
 
 * University of Malaya Physics Society (PERFUM) has an introductory course into Python available: [Introduction to Python](https://github.com/afyqazraei/IntroToPythonPERFUM)
