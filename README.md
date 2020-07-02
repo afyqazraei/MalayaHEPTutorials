@@ -10,9 +10,17 @@ You will be mainly using the UNIX operating system on the Bash shell to access t
 
 * If you're on Windows 10, you can use the built in Linux subsystem. Windows Subsystem for Linux 2 (WSL2) suffices our needs. Follow the the steps in this video: [How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux](https://www.youtube.com/watch?v=xzgwDbe7foQ)
 * If you want to use a virtual machine to run Linux, follow the steps here: [How to Use VirtualBox (Beginners Guide)](https://www.youtube.com/watch?v=sB_5fqiysi4)
-* If you just want to access the Grid without the hassle of installing Linux, you can just install Putty. Steps after installation will be detailed below. Follow the steps here: [How to Install PuTTY on Windows](https://www.ssh.com/ssh/putty/windows/install)
+* If you just want to access the Grid without the hassle of installing Linux, you can just install Putty. Follow the steps here: [How to Install PuTTY on Windows](https://www.ssh.com/ssh/putty/windows/install)
 * A 1-hour tutorial on the basic and useful command lines when using the Bash terminal: [Beginner's Guide to the Bash Terminal
 ](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+
+### SSH (Secure Shell)
+
+Doing proper experimental particle physics requires vast computing resources that is not possible with your own computer alone, so we will be doing it with the CMS computers. Once you have your CERN account, you can access them through the Bash shell using the `<ssh>` command. Example:
+
+> ssh -XY yourusername@lxplus7.cern.ch
+
+If you are using Putty, then follow the steps in the previously given link.
 
 ## GitHub
 
@@ -22,3 +30,8 @@ Most of the time, you will be working with lots of other people on the same code
 * A simple explanation on Version Control System: [What is Git - A Quick Introduction to the Git Version Control System](https://www.youtube.com/watch?v=OqmSzXDrJBk)
 * 30-minute video tutorial on Git command lines that are useful: [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&t=1290s)
 
+## Python
+
+One of the most widely used language now, Python is a common language among CMS collaborators besides C++.
+
+* University of Malaya Physics Society (PERFUM) has an introductory course into Python available: [Introduction to Python](https://github.com/afyqazraei/IntroToPythonPERFUM)
