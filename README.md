@@ -18,11 +18,11 @@ You will be mainly using the UNIX operating system on the Bash shell to access t
 
 Doing proper experimental particle physics requires vast computing resources that is not possible with your own computer alone, so we will be doing it with the CMS computers. Once you have your CERN account, you can access them through the Bash shell using the `<ssh>` command. Example:
 
-'''Python
+```Python
 ssh -XY yourusername@lxplus7.cern.ch
 >Warning: Permanently added the ECDSA host key for IP address '188.184.97.224' to the list of known hosts.
 >Password:
-'''
+```
 
 If you are using Putty, then follow the steps in the previously given link.
 
