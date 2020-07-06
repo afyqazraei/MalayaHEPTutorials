@@ -6,7 +6,7 @@ UNDER CONSTRUCTION
 
 ## For contributors
 
-These instructions are designed for those contributing using Linux via a Bash terminal, but if you're using Jupyter directly, then you need to find a work around some stuff that I didn't bother to explore yet.
+These instructions are designed for those contributing using Linux via a Bash terminal, but if you're using Jupyter directly, then you need to find a workaround for some stuff that I didn't bother to explore yet.
 
 1. Install anaconda at [Anaconda Installation Documentation](https://docs.anaconda.com/anaconda/install/)
 2. To use the C++ interpreter Cling, we need to setup a Conda environment first and use it in there.
