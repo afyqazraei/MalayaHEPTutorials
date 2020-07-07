@@ -1,4 +1,5 @@
 # Introduction to C++
+![C++ Logo](https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToCpp/images/Cpp_logo.png)
 
 ## For Students
 
