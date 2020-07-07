@@ -1,4 +1,6 @@
 # Introduction to C++
+
+<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToCpp/images/Cpp_logo.png" width="48" height="48">
 ![C++ Logo](https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToCpp/images/Cpp_logo.png)
 
 ## For Students
