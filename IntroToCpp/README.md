@@ -10,7 +10,7 @@ For those of you who are new to all this, welcome to GitHub! GitHub is a place w
 
 ### Jupyter Notebooks
 
-The Notebooks will give you a brief tutorial into c++, designed for physics undergrads that have little to no experience in programming. Just press the Binder link and let it launch. Learn, enjoy, explore!
+The Notebooks will give you a brief tutorial into c++, designed for physics undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python, available at [IntroToPythonPERFUM](https://github.com/afyqazraei/IntroToPythonPERFUM). Just press the Binder link and let it launch. Learn, enjoy, explore!
 
 |Notebook|Open|Contributor|
 |:--|:--|:--|
