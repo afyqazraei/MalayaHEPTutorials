@@ -1,5 +1,7 @@
 # Introduction to C++
 
+<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToCpp/images/Cpp_logo.png" width="100" height="100">
+
 ## For Students
 
 UNDER CONSTRUCTION
