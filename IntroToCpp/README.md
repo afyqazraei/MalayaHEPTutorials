@@ -4,7 +4,22 @@
 
 ## For Students
 
-UNDER CONSTRUCTION
+Hi, everyone!
+
+For those of you who are new to all this, welcome to GitHub! GitHub is a place where people, sometimes from all corners of the world, come together and collaborate on programming projects. Here in this repository, are Jupyter Notebooks that can be launched through Binder. All of this is open source, and can be accessible almost anywhere, anytime. 
+
+### Jupyter Notebooks
+
+The Notebooks will give you a brief tutorial into c++, designed for physics undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python, available at [IntroToPythonPERFUM](https://github.com/afyqazraei/IntroToPythonPERFUM). Just press the Binder link and let it launch. Learn, enjoy, explore!
+
+|Notebook|Open|Contributor|
+|:--|:--|:--|
+|Intro To C++|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToCpp%2FIntro_to_Cpp.ipynb)|Afiq Azraei|
+|Basketball Shot Kinematics|N/A|Zaim Hakimie|
+|Random Walk|N/A|Harith Zulfaizal|
+|Simple Harmonic Motion|N/A|Yao Feng|
+
+
 
 ## For contributors
 
