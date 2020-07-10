@@ -15,7 +15,7 @@ The Notebooks will give you a brief tutorial into c++, designed for physics unde
 |Notebook|Open|Contributor|
 |:--|:--|:--|
 |Intro To C++|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToCpp%2FIntro_to_Cpp.ipynb)|Afiq Azraei|
-|Basketball Shot Kinematics|N/A|Zaim Hakimie|
+|OOP 1: Struct and Class |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToCpp%2FOOP_Structs_Classes.ipynb)|Afiq Azraei|
 |Random Walk|N/A|Harith Zulfaizal|
 |Simple Harmonic Motion|N/A|Yao Feng|
 
