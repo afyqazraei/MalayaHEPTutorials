@@ -18,6 +18,9 @@ The Notebooks will give you a brief tutorial into c++, designed for physics unde
 |OOP 1: Struct and Class |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToCpp%2FOOP_Part1.ipynb)|Afiq Azraei|
 |OOP 2: Encapsulation, Inheritance and Overloading |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToCpp%2FOOP_Part2.ipynb)|Afiq Azraei|
 
+### For Advanced Students
+
+Running on Binder requires a good internet connection, but even then it does not guarantee that the kernel would not suddenly die. So, to minimize external factors disrupting your experience to learn, it is better for you to run the ROOTbooks locally on your computer. Follow the steps outlined for contributors, then launch the notebooks from the Conda environment.
 
 
 ## For contributors
