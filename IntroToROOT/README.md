@@ -1,6 +1,6 @@
 # Introduction to C++
 
-<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToROOT/images/root_logo.png" width="200">
+<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToROOT/images/root_logo.png">
 
 ## For Students
 
