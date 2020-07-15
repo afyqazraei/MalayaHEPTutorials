@@ -1,24 +1,23 @@
-# Introduction to C++
+# Introduction to ROOT
 
-<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToROOT/images/root_logo.png" width="200">
+<img src="https://github.com/afyqazraei/MalayaHEPTutorials/blob/master/IntroToROOT/images/root_logo.png">
 
 ## For Students
 
-Hi, everyone!
-
-For those of you who are new to all this, welcome to GitHub! GitHub is a place where people, sometimes from all corners of the world, come together and collaborate on programming projects. Here in this repository, are Jupyter Notebooks that can be launched through Binder. All of this is open source, and can be accessible almost anywhere, anytime. 
+### Requirements
+* Basic knowledge of Python & C++, at least know how to do loops and functions with ease
 
 ### Jupyter Notebooks
 
-The Notebooks will give you a brief tutorial into c++, designed for physics undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python, available at [IntroToPythonPERFUM](https://github.com/afyqazraei/IntroToPythonPERFUM). Just press the Binder link and let it launch. Learn, enjoy, explore!
+The Notebooks will give you a brief tutorial into ROOT.
 
-|Notebook|Open|Contributor|
+|Notebook|Open|Description|
 |:--|:--|:--|
-|Intro To ROOT|N/A|Afiq Azraei|
-|RDataFrame|N/A|Afiq Azraei|
-|RooStats & RooFit|N/A|Afiq Azraei|
-|TMVA|N/A|N/A|
-|Combine|N/A|N/A|
+|Intro To ROOT|N/A|Basic and common functionalities|
+|RDataFrame|N/A|Data handling
+|RooStats & RooFit|N/A|Statistics and function fitting|
+|TMVA|N/A|Multivariate Analysis (Machine Learning)|
+|Combine|N/A|Main statistics package used|
 
 ### For Advanced Students
 
