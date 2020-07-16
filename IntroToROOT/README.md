@@ -13,7 +13,8 @@ The Notebooks will give you a brief tutorial into ROOT.
 
 |Notebook|Open|Description|
 |:--|:--|:--|
-|Intro To ROOT|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FIntroToROOT.ipynb)|Basic and common functionalities|
+|Intro To ROOT|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2Fnotebooks%2FIntroToROOT.ipynb)|Basic and common functionalities|
+|Data Visualisation|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2Fnotebooks%2FPlottingGuide.ipynb)|Basic Plotting|
 |RDataFrame|N/A|Data handling
 |RooStats & RooFit|N/A|Statistics and function fitting|
 |TMVA|N/A|Multivariate Analysis (Machine Learning)|
