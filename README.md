@@ -59,5 +59,3 @@ ROOT is a vast statistical analysis framework designed for High Energy Physics a
 Follow the set of tutorials that have been designed to teach you the important and most used stuff, as there is A LOT if you want to explore it one by one. The tutorials will help you get started with the basics do an analysis.
 * The developers have already created a set of useful tutorials for people to explore: [ROOT Tutorials](https://root.cern/doc/master/group__Tutorials.html)
 
-
-**----UNDER CONSTRUCTION-----**
