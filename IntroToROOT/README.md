@@ -11,15 +11,15 @@
 
 The Notebooks will give you a brief tutorial into ROOT.
 
-|Notebook|Open|Description|
-|:--|:--|:--|
-|Intro To ROOT|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FIntroToROOT.ipynb)|Basic and common functionalities|
-|Data Visualisation|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|Basic Plotting|
-|RDataFrame|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|Data handling
-|RooFit: Part 1|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part1.ipynb)|The basics|
-|RooFit: The Basics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part2.ipynb)|Some advanced stuff|
-|TMVA|N/A|Multivariate Analysis (Machine Learning)|
-|Combine|N/A|Main statistics package used|
+|Notebook|Python|C++|Description|
+|:--|:--|:--|:--|
+|Intro To ROOT|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FIntroToROOT.ipynb)|N/A|Basic and common functionalities|
+|Data Visualisation|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|N/A|Basic Plotting|
+|RDataFrame|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|N/A|Data handling
+|RooFit: Part 1|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part1.ipynb)|N/A|The basics|
+|RooFit: The Basics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part2.ipynb)|N/A|Some advanced stuff|
+|TMVA|N/A|N/A|Multivariate Analysis (Machine Learning)|
+|Combine|N/A|N/A|Main statistics package used|
 
 ### For Advanced Students
 
