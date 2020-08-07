@@ -33,11 +33,11 @@ These instructions are designed for those contributing using Linux via a Bash te
 You can read up more on how Conda environments work [here](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html). Basically, they're just a separate place you can mess around without interupting or corrupting your default setup.
 
 ```bash
-conda create -n root_env
+conda create -n myEnv
 ```
 Here, `root_env` is the `conda env` we designated, and has a similar name to the C++ kernel we will install later. To enter the environment and to exit it, just type:
 ```bash
-conda activate root_env      # to enter the environment
+conda activate myEnv         # to enter the environment
 conda deactivate             # to exit the environment
 ```
 The `env` you just setup is empty, so you need to install the packages that you want to use, even when the default Conda environment has all of them.
