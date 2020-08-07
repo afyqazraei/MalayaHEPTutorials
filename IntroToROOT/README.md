@@ -16,7 +16,8 @@ The Notebooks will give you a brief tutorial into ROOT.
 |Intro To ROOT|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FIntroToROOT.ipynb)|Basic and common functionalities|
 |Data Visualisation|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|Basic Plotting|
 |RDataFrame|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFPlottingGuide.ipynb)|Data handling
-|RooStats & RooFit|N/A|Statistics and function fitting|
+|RooFit: Part 1|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part1.ipynb)|The basics|
+|RooFit: The Basics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/MalayaHEPTutorials/master?filepath=.%2FIntroToROOT%2FFRooFit_Part2.ipynb)|Some advanced stuff|
 |TMVA|N/A|Multivariate Analysis (Machine Learning)|
 |Combine|N/A|Main statistics package used|
 
