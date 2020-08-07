@@ -26,7 +26,7 @@ ssh -XY yourusername@lxplus7.cern.ch
 
 If you are using Putty, then follow the steps in the previously given link.
 
-## GitHub
+## GitHub 
 
 Most of the time, you will be working with lots of other people on the same code. This can be problematic if the workflow is not streamlined and may cause issues later on. So, we use Git as our version control system to ensure new entries or edits of codes are integrated properly so that the whole framework does not crash.
 
@@ -42,6 +42,22 @@ One of the most widely used language now, Python is a common language among phys
 * An in-depth tutorial for Python: [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 * CMS Summer School also has introductory Python notebooks: [Analyse CMS Open Data in Jupyter Notebooks using Binder](https://github.com/cms-opendata-education/cms-online-notebooks-for-binder)
 
+A set of notebooks have also been designed for this repository, mainly an adaptation of the C++ version.
+
 ## C++
 
-# ******UNDER CONSTRUCTION*********
+C++ is the main programming language in particle physics, due to its power. Master this, as it will be useful to explore ROOT later.
+
+A set of tutorials covering from the basics up to the concepts of Object Oriented Programming has been designed in this repo. Follow the instructions given.
+
+* A playlist of C++ tutorials I personally find helpful: [C++ Programming Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
+
+## ROOT
+
+ROOT is a vast statistical analysis framework designed for High Energy Physics analyses. This will be the stuff that you will commonly use and work with.
+
+Follow the set of tutorials that have been designed to teach you the important and most used stuff, as there is A LOT if you want to explore it one by one. The tutorials will help you get started with the basics do an analysis.
+* The developers have already created a set of useful tutorials for people to explore: [ROOT Tutorials](https://root.cern/doc/master/group__Tutorials.html)
+
+
+**----UNDER CONSTRUCTION-----**
