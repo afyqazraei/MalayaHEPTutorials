@@ -17,6 +17,9 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Intro To Python|N/A|Afiq Azraei|
 |OOP 1: Struct and Class |N/A|Afiq Azraei|
 |OOP 2: Encapsulation, Inheritance and Overloading |N/A|Afiq Azraei|
+|Exploring Numpy & Scipy|N/A|N/A|
+|Exploring Pandas|N/A|N/A|
+|Exploring Matplotlib|N/A|N/A|
 
 ### For Advanced Students
 
