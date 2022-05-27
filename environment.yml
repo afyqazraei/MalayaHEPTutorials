@@ -1,12 +1,8 @@
-name: analysis
+name: UITM
 channels:
   - conda-forge
 dependencies:
-  - root
   - pip
-  - uproot
   - pandas
   - numpy
   - matplotlib
-  - lmfit
-  - scikit-learn
